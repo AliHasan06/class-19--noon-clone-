@@ -152,12 +152,19 @@ input{
 #carouselExampleIndicators{
      width: 970px;
     height: 204px;
-    /* width: 30%; */
+     /* width: 30%; */
 
-}  
+ }  
 
-.women-men-1{
-    width: 970px;
+/* .women-men-1{
+    width: 210px;
     height: 204px;
 
+}  */
+
+#pink-categories{
+    background-color: #feeaea;
+    width: 100%;
+    height: 181px;
+    justify-content: space-evenly;
 }
